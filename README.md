@@ -96,8 +96,10 @@ v34_adv_weighted_ic50_020_cc50_030_keep_si.csv
 Kaggle score:
 
 ```text
-269.39668
+268.87677
 ```
+  <img width="1120" height="181" alt="image" src="https://github.com/user-attachments/assets/a531645e-fe3f-4ecb-80c6-62c22b3a926e" />
+  <img width="1182" height="82" alt="image" src="https://github.com/user-attachments/assets/ed942dcb-4464-4e06-83fa-a096a1099640" />
 
 Финальная логика:
 
@@ -136,3 +138,4 @@ notebooks/04_final_pipeline.ipynb
 - история экспериментов;
 - таблица submission со score;
 - описание командной работы.
+
