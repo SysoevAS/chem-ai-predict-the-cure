@@ -1,0 +1,29 @@
+﻿submission,description,score,status
+baseline_submission.csv,Первый baseline,305.78271,complete
+strong_submission.csv,Усиленный baseline,312.21156,complete
+conservative_submission.csv,Консервативная версия,317.71193,complete
+advanced_submission.csv,Первый advanced pipeline,300.32095,complete
+tree_no_overlay_submission.csv,Tree baseline без overlay,293.0101,complete
+v2_tree_no_overlay.csv,Усиленная tree-версия,288.39467,complete
+v4_si_overlay_025.csv,SI overlay 0.25,288.01612,complete
+v5_si_overlay_050.csv,SI overlay 0.50,283.79884,complete
+v6_si_overlay_075.csv,SI overlay 0.75,280.69977,complete
+v7_si_overlay_100.csv,Полная замена SI на модель,279.10178,complete
+v8_si_model_formula_020.csv,SI model + formula 0.20,275.29956,complete
+v9_si_model_formula_050.csv,SI model + formula 0.50,271.39276,complete
+EditVer12.csv,Настройка веса SI formula,270.62255,complete
+EditVer15 (2).csv,Близкая настройка SI formula,270.63543,complete
+Edit17.csv,Сильная промежуточная SI-версия,270.57525,complete
+v17_si_tail_shrink_085.csv,Сжатие хвоста SI,270.85713,complete
+v24_best_edit17_kernel_blend_002.csv,Kernel blend 0.002,270.50073,complete
+v25_best_edit17_kernel_blend_003.csv,Kernel blend 0.003,270.49116,complete
+v30_edit17_stack_ic50cc50_005_keep_si.csv,"5% stack для IC50/CC50, SI оставлен",270.33545,complete
+v31_adv_weighted_ic50cc50_keep_si.csv,Первый adversarial weighted overlay,269.81436,complete
+v32_adv_weighted_ic50_012_cc50_018_keep_si.csv,Adv overlay IC50 0.012 / CC50 0.018,269.56671,complete
+v33_adv_weighted_ic50_016_cc50_024_keep_si.csv,Adv overlay IC50 0.016 / CC50 0.024,269.44732,complete
+v34_adv_weighted_ic50_020_cc50_030_keep_si.csv,Финальный официальный кандидат,269.39668,complete
+v35_adv_ic50_020_cc50_038_keep_si.csv,Больше вес CC50 overlay,269.49952,complete
+v36_domain_subset_ic50cc50_keep_si.csv,Domain subset вариант,269.45322,complete
+v34_adv_weighted_ic50_020_cc50_030_keep_si (1).csv,Post-deadline проверка того же направления,268.87677,after deadline
+v33_adv_weighted_ic50_016_cc50_024_keep_si (1).csv,Post-deadline проверка v33,269.00196,after deadline
+v35_adv_ic50_020_cc50_038_keep_si (1).csv,Post-deadline проверка v35,269.07579,after deadline
